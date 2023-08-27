@@ -6,7 +6,6 @@ This website allows users to book or enquire about our new apartments opening.
 2. CSS <br />
 3. JAVASCRIPT <br />
 
-# TOOLS USED: <br />
+# Tools used: <br />
 1. VS CODE <br />
-2. GOOGLE SPREADSHEETS <br />
-3. WIKIPEDIA
+2. GOOGLE SPREADSHEETS 
