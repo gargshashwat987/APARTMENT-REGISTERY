@@ -2,7 +2,7 @@
 This website allows users to book or enquire about our new apartments opening. <br/>
 We will contact the interested people asap. 
 
-## Prograamming Languages used: <br />
+## Programming Languages used: <br />
 1. HTML <br /> 
 2. CSS <br />
 3. JAVASCRIPT <br />
